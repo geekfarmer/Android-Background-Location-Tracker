@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LTracking</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="start_updates">Start</string>
+    <string name="stop_updates">Stop</string>
+    <string name="get_last_location">Current</string>
+    <string name="error">Error</string>
+</resources>
